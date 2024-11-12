@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Marc, an experience software & infrastructure engineer
+### Hi there 👋 I'm Marc, an experienced software & infrastructure engineer
 
 - 🔭 I’m currently working on designing, building, and operating a distributed systems solution for hosting InfluxDB 3
 - 💬 Ask me about developping Kubernetes Controllers in Go and Observability
